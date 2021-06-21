@@ -58,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tranportation_Zone_Map" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\soulba01\OneDrive - SOMFY\Documents\GitHub\Tranportation_Zone_Map\Example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_capitals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Get_Cities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_center_adm_lvl_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tranportation_Zone_Map" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_Cities.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\soulba01\OneDrive - SOMFY\Documents\GitHub\Tranportation_Zone_Map\Get_center_adm_lvl_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,10 +145,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.TZ_Definition" />
-        <item itemvalue="Python.Get_Cities" />
+        <item itemvalue="Python.Get_capitals" />
         <item itemvalue="Python.Example (1)" />
-        <item itemvalue="Python.Example" />
+        <item itemvalue="Python.Get_center_adm_lvl_4" />
+        <item itemvalue="Python.TZ_Definition" />
       </list>
     </recent_temporary>
   </component>
